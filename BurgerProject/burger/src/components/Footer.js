@@ -23,7 +23,7 @@ export const Footer = () => {
           <InstagramIcon />
         </a>
         <a
-          href="https://www.instagram.com/burgeryiyelimm"
+          href="https://www.youtube.com/@burgeryiyelim"
           target="_blank"
           rel="noopener noreferrer"
         >
